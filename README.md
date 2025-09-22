@@ -1,3 +1,5 @@
 # Chaines-de-Markov-et-page-Rank-de-Google
 
-Lien du jupyter notebook : [ici](https://github.com/Smogita/Chaines-de-Markov-et-page-Rank-de-Google/blob/main/Markov_PageRank.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](
+https://mybinder.org/v2/gh/Smogita/Chaines-de-Markov-et-page-Rank-de-Google/HEAD?filepath=notebooks/Markov_PageRank.ipynb
+)
